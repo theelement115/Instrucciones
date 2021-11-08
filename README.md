@@ -8,9 +8,9 @@ El objetivo de la prueba es crear una pagina web sencilla en la que se puedan vi
    * name
    * stock
    * price
+   * paused
 
 2. la API debe permitir hacer el CRUD de productos
-
 
 3. dockerizar la API, se puede usar Docker o Docker-Compose
 
@@ -20,4 +20,11 @@ El objetivo de la prueba es crear una pagina web sencilla en la que se puedan vi
 
 6. Hacer en el mismo proyecto de angular en otra url una pagina que permita vizualisar los productos, la pagina debe parecerse al diseño propuesto.
 
-7. Subir ambos proyectos (La api en django y la pagina en angular) a github o gitlab de manera publica y enviar el link al correo gerencia@zaito.co
+7. Hacer en la pagina de vizualizacion un menu desde el que se pueda ( se recomienda seguir el diseño propuesto)
+
+   * Abrir un dialog en el que se pueda cambiar el stock del producto seleccionado
+   * Pausar el producto
+   * Activar el producto
+   * Eliminar el producto
+
+8. Subir ambos proyectos (La api en django y la pagina en angular) a github o gitlab de manera publica y enviar el link al correo gerencia@zaito.co
