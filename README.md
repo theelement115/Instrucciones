@@ -19,3 +19,5 @@ El objetivo de la prueba es crear una pagina web sencilla en la que se puedan vi
 5. Hacer en angular una pagina que permita crear un producto, puede ser un formulario simple con los 3 campos
 
 6. Hacer en el mismo proyecto de angular en otra url una pagina que permita vizualisar los productos, la pagina debe parecerse al diseño propuesto.
+
+7. Subir ambos proyectos (La api en django y la pagina en angular) a github o gitlab de manera publica y enviar el link al correo gerencia@zaito.co
