@@ -14,7 +14,7 @@ El objetivo de la prueba es crear una pagina web sencilla en la que se puedan vi
 
 3. dockerizar la API, se puede usar Docker o Docker-Compose
 
-4. crear un proyecto de angular, para el desarrollo del front se puede usar cualquier framework de gui, pero se recomienda usar primeng por facilidad  https://primefaces.org/primeng/showcase/#/setup
+4. crear un proyecto de angular para el desarrollo del front se puede usar cualquier framework de gui, pero se recomienda usar primeng por facilidad  https://primefaces.org/primeng/showcase/#/setup
 
 5. Hacer en angular una pagina que permita crear un producto, puede ser un formulario simple con los 3 campos
 
