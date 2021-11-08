@@ -18,9 +18,9 @@ El objetivo de la prueba es crear una pagina web sencilla en la que se puedan vi
 
 5. Hacer en angular una pagina que permita crear un producto, puede ser un formulario simple con los 3 campos
 
-6. Hacer en el mismo proyecto de angular, en otra url una pagina que permita vizualisar los productos, la pagina debe parecerse al diseño propuesto. (se recomienda usar el dataview de primeng)
+6. Hacer en el mismo proyecto de angular, en otra url una pagina que permita visualizar los productos, la pagina debe parecerse al diseño propuesto. (se recomienda usar el dataview de primeng)
 
-7. Hacer en la pagina de vizualizacion un menu desde el que se pueda:
+7. Hacer en la pagina de visualizacion un menu desde el que se pueda:
 
    * Abrir un dialog en el que se pueda cambiar el stock del producto seleccionado
    * Pausar el producto
